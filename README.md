@@ -4,7 +4,7 @@
 
 시험기간이랑 겹쳐서 힘들었지만 무사히 마무리해서 뿌듯하다!
 
-💙[완성작 링크]: https://gaeunnlee.github.io/JS-ToDoList
+💙[완성작 링크]: [https://gaeunnlee.github.io/JS-ToDoList]
 
 ![result01](./result-01.png)
 
