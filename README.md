@@ -4,6 +4,6 @@
 
 시험기간이랑 겹쳐서 힘들었지만 무사히 마무리해서 뿌듯하다!
 
-![result01](./JS-ToDoList/result-01.jpg)
+![result01](./result-01.png)
 
-![result02](./JS-ToDoList/result-02.jpg)
+![result02](./result-02.png)
